@@ -1,0 +1,2 @@
+# nma
+python training repo
